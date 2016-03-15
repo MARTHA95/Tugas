@@ -21,7 +21,7 @@ b.	Knowledge representation<br>
 •	 Rules<br>
 •	SemanticNetwork<br>
 •	Frame<br>
-Predicate Logic Fuzzy Representation<br>
+Predicate Logic Fuzzy Representation
 http://yangmantapajadeh.blogspot.co.id/2011/04/sistem-pakar.html<br><br>
 c.	Automated Reasoning<br>
 <p>Automated Reasoning adalah ilmu yang menjadikan komputer untu menerapkan penalaran logis dalam memecahkan suatu permasalahan. Penalaran otomatis disebut juga menulis program komputer yang dapat membantu dalam memecahkan suatu masalah. Contonya :</p><br>
@@ -34,7 +34,7 @@ d.	Machine learning<br>
 •	speech recognition<br>
 •	fingerprint recognition atau<br>
 •	handwriting recognition<br>
-https://denysutani.wordpress.com/2008/12/18/machine-learning/<br>
+https://denysutani.wordpress.com/2008/12/18/machine-learning/<br><br>
 
 e.	Computer Vision<br>
 <p>Computer Vision adalah ilmu dan teknologi mesin yang melihat, di mana lihat dalam hal ini berarti bahwa mesin mampu mengekstrak informasi dari gambar yang diperlukan untuk menyelesaikan tugas tertentu. Contohnya :</p><br>
