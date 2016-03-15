@@ -35,6 +35,7 @@ d.	Machine learning<br>
 •	fingerprint recognition atau<br>
 •	handwriting recognition<br>
 https://denysutani.wordpress.com/2008/12/18/machine-learning/<br>
+
 e.	Computer Vision<br>
 <p>Computer Vision adalah ilmu dan teknologi mesin yang melihat, di mana lihat dalam hal ini berarti bahwa mesin mampu mengekstrak informasi dari gambar yang diperlukan untuk menyelesaikan tugas tertentu. Contohnya :</p><br>
 •	Bidang Pengolahan Citra Medis<br>
@@ -42,8 +43,9 @@ e.	Computer Vision<br>
 •	Bidang Pertahanan dan Keamanan (Militer)<br>
 •	Bidang Permainan (Game Playing)<br>
 https://rcmlanglangbuana.wordpress.com/2014/11/14/computer-vision/<br>
+
 f.	Robotika<br>
-<p>Robot adalah peralatan manipulator yang mampu diprogram, mempunyai berbagai fungsi, yang dirancang untuk memindahkan barang, komponen-komponen, peralatan, atau alat-alat khusus, melalui berbagai gerakan terprogram untuk pelaksanaan berbagai pekerjaan. Secara mendasar, robot memilik banyak hal yang sama dengan otomasi internal, mereka memanfaatkan piranti tenaga yangserupa (seperti listrik, hidraulik, atau pneumatik) dan mereka dikendalikan melalui urutan-urutan yang telah dikendalikan melalui program, yang memungkinkan mesin tersebut pada posisi yang diinginkan. Lingkungan seperti ini didefinisikan sebagai lingkungan Dalam perkembangan mesin yang terotomatisasi ini akan menjadi bermacam-macam spesifikasi tergantung kebutuhan aktifitas manusia terhadap otomatisasi industri dan robotika. Contohnya :</p><br>
+<p>Robot adalah peralatan manipulator yang mampu diprogram, mempunyai berbagai fungsi, yang dirancang untuk memindahkan barang, komponen-komponen, peralatan, atau alat-alat khusus, melalui berbagai gerakan terprogram untuk pelaksanaan berbagai pekerjaan. Secara mendasar, robot memilik banyak hal yang sama dengan otomasi internal, mereka memanfaatkan piranti tenaga yangserupa (seperti listrik, hidraulik, atau pneumatik) dan mereka dikendalikan melalui urutan-urutan yang telah dikendalikan melalui program, yang memungkinkan mesin tersebut pada posisi yang diinginkan. Lingkungan seperti ini didefinisikan sebagai lingkungan Dalam perkembangan mesin yang terotomatisasi ini akan menjadi bermacam-macam spesifikasi tergantung kebutuhan aktifitas manusia terhadap otomatisasi industri dan robotika. Contohnya :</p>
 •	Scrubmate<br>
 •	Sojourner<br>
 •	SICO<br>
