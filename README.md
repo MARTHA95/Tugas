@@ -20,23 +20,23 @@ b.	Knowledge representation<br>
 •	 Rules<br>
 •	SemanticNetwork<br>
 •	Frame<br>
-Predicate Logic Fuzzy Representation<br>http://yangmantapajadeh.blogspot.co.id/2011/04/sistem-pakar.html<br><br>
+Predicate Logic Fuzzy Representation<br><br>http://yangmantapajadeh.blogspot.co.id/2011/04/sistem-pakar.html<br><br>
 c.	Automated Reasoning<br>
 <p>Automated Reasoning adalah ilmu yang menjadikan komputer untu menerapkan penalaran logis dalam memecahkan suatu permasalahan. Penalaran otomatis disebut juga menulis program komputer yang dapat membantu dalam memecahkan suatu masalah. Contonya :<br></p>•	Logika Pemograman<br>•	Aljabar Komputer Deduktif<br>•	Verifikasi formal perangkat keras<br><br>
 
 d.	Machine learning<br>
 <p>Machine learning adalah sebuah studi yang mempelajari cara untuk memprogram sebuah komputer untuk belajar. Ada 4 kategori besar dimana sebuah aplikasi sulit untuk dibuat. Pertama, bila tidak ada manusia yang menguasai bidang tersebut. Kedua, bila ada manusia yang menguasai hal tersebut namun ia tidak mampu untuk menjelaskannya. Ketiga, adalah saat keadaan dapat berubah dengan cepat. Keempat, bila aplikasi harus dibuat berbeda untuk masing- masing pengguna. Contohnya :<br></p>•	speech recognition<br>•	fingerprint recognition atau<br>•	handwriting recognition<br>
-https://denysutani.wordpress.com/2008/12/18/machine-learning/<br><br>
+<br>https://denysutani.wordpress.com/2008/12/18/machine-learning/<br><br>
 
 e.	Computer Vision<br>
-<p>Computer Vision adalah ilmu dan teknologi mesin yang melihat, di mana lihat dalam hal ini berarti bahwa mesin mampu mengekstrak informasi dari gambar yang diperlukan untuk menyelesaikan tugas tertentu. Contohnya :<br></p>•	Bidang Pengolahan Citra Medis<br>•	Bidang Kecerdasan Buatan (Robotik)<br>•	Bidang Pertahanan dan Keamanan (Militer)<br>•	Bidang Permainan (Game Playing)<br>https://rcmlanglangbuana.wordpress.com/2014/11/14/computer-vision/<br><br>
+<p>Computer Vision adalah ilmu dan teknologi mesin yang melihat, di mana lihat dalam hal ini berarti bahwa mesin mampu mengekstrak informasi dari gambar yang diperlukan untuk menyelesaikan tugas tertentu. Contohnya :<br></p>•	Bidang Pengolahan Citra Medis<br>•	Bidang Kecerdasan Buatan (Robotik)<br>•	Bidang Pertahanan dan Keamanan (Militer)<br>•	Bidang Permainan (Game Playing)<br><br>https://rcmlanglangbuana.wordpress.com/2014/11/14/computer-vision/<br><br>
 
 f.	Robotika<br>
 <p>Robot adalah peralatan manipulator yang mampu diprogram, mempunyai berbagai fungsi, yang dirancang untuk memindahkan barang, komponen-komponen, peralatan, atau alat-alat khusus, melalui berbagai gerakan terprogram untuk pelaksanaan berbagai pekerjaan. Secara mendasar, robot memilik banyak hal yang sama dengan otomasi internal, mereka memanfaatkan piranti tenaga yangserupa (seperti listrik, hidraulik, atau pneumatik) dan mereka dikendalikan melalui urutan-urutan yang telah dikendalikan melalui program, yang memungkinkan mesin tersebut pada posisi yang diinginkan. Lingkungan seperti ini didefinisikan sebagai lingkungan Dalam perkembangan mesin yang terotomatisasi ini akan menjadi bermacam-macam spesifikasi tergantung kebutuhan aktifitas manusia terhadap otomatisasi industri dan robotika. Contohnya :<br></p>
 •	Scrubmate<br>
 •	Sojourner<br>
 •	SICO<br>
-http://www.temukanpengertian.com/2013/08/pengertian-robotika.html
+<br>http://www.temukanpengertian.com/2013/08/pengertian-robotika.html
 
 
 
