@@ -13,21 +13,21 @@ Soal 3	: Halangan apa saja yang menurut anda menghambat perkembangan komputer un
 Soal 4 :Jelaskan istilah pada bidang AI serta berikan beberapa contoh implementasi untuk masing-masing sub bidang tersebut!<br>
 a.	Pengolahan Bahasa Alami<br>
 <p>Natural Language Processing biasa disebut dengan Pemrosesan Bahasa Alami adalah Bidang Artificial Intelligence yang berurusan dengan pemahaman bahasa (alami) manusia (bahasa inggris, jerman, Indonesia dan lain-lain). Bahasa alami atau yang disebut dengan natural language adalah suatu bahasa yang diucapkan, ditulis, disyaratkan oleh manusia untuk berkomunikasi umum. Jadi bahasa alami/ natural language yaitu bahasa yang dimengerti oleh manusia. Bahasa alami pada prinsipnya adalah suatu bentuk representasi dari suatu pesan yang akan dikomunikasikan antar manusia. Representasinya dapat berupa ucapan/ suara  (spoken language), namun juga bisa dinyatakan berupa tulisan. Contohnya : Output Translator atau Geoogle translate.</p><br>
-http://www.temukanpengertian.com/2013/08/pengertian-natural-language-processing.html<br>
+http://www.temukanpengertian.com/2013/08/pengertian-natural-language-processing.html<br><br>
 
 b.	Knowledge representation<br>
-<p>Knowledge representation untuk memudahkan suatu pengertahuan merupakan tahap yang memiliki peran penting dan suatu bidang kecerdasan buatan yang cukup diminati, karena penerapannya diberbagai bidang baik budang ilmu pengetahuan maupun bisnis yang terbukti sangat membantu dalam mengambil keputusan. Komponen sistem pakar terbagi atas :</p><br>
+<p>Knowledge representation untuk memudahkan suatu pengertahuan merupakan tahap yang memiliki peran penting dan suatu bidang kecerdasan buatan yang cukup diminati, karena penerapannya diberbagai bidang baik budang ilmu pengetahuan maupun bisnis yang terbukti sangat membantu dalam mengambil keputusan. Komponen sistem pakar terbagi atas :</p>
 •	Object–atribut–value(OAV)triplet<br>
 •	 Rules<br>
 •	SemanticNetwork<br>
 •	Frame<br>
 Predicate Logic Fuzzy Representation<br>
-http://yangmantapajadeh.blogspot.co.id/2011/04/sistem-pakar.html<br>
+http://yangmantapajadeh.blogspot.co.id/2011/04/sistem-pakar.html<br><br>
 c.	Automated Reasoning<br>
 <p>Automated Reasoning adalah ilmu yang menjadikan komputer untu menerapkan penalaran logis dalam memecahkan suatu permasalahan. Penalaran otomatis disebut juga menulis program komputer yang dapat membantu dalam memecahkan suatu masalah. Contonya :</p><br>
 •	Logika Pemograman<br>
 •	Aljabar Komputer Deduktif<br>
-•	Verifikasi formal perangkat keras<br>
+•	Verifikasi formal perangkat keras<br><br>
 
 d.	Machine learning<br>
 <p>Machine learning adalah sebuah studi yang mempelajari cara untuk memprogram sebuah komputer untuk belajar. Ada 4 kategori besar dimana sebuah aplikasi sulit untuk dibuat. Pertama, bila tidak ada manusia yang menguasai bidang tersebut. Kedua, bila ada manusia yang menguasai hal tersebut namun ia tidak mampu untuk menjelaskannya. Ketiga, adalah saat keadaan dapat berubah dengan cepat. Keempat, bila aplikasi harus dibuat berbeda untuk masing- masing pengguna. Contohnya :</p><br>
