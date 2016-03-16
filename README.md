@@ -15,7 +15,8 @@ a.	Pengolahan Bahasa Alami<br>
 <p>Natural Language Processing biasa disebut dengan Pemrosesan Bahasa Alami adalah Bidang Artificial Intelligence yang berurusan dengan pemahaman bahasa (alami) manusia (bahasa inggris, jerman, Indonesia dan lain-lain). Bahasa alami atau yang disebut dengan natural language adalah suatu bahasa yang diucapkan, ditulis, disyaratkan oleh manusia untuk berkomunikasi umum. Jadi bahasa alami/ natural language yaitu bahasa yang dimengerti oleh manusia. Bahasa alami pada prinsipnya adalah suatu bentuk representasi dari suatu pesan yang akan dikomunikasikan antar manusia. Representasinya dapat berupa ucapan/ suara  (spoken language), namun juga bisa dinyatakan berupa tulisan. Contohnya : Output Translator atau Geoogle translate.<br></p>http://www.temukanpengertian.com/2013/08/pengertian-natural-language-processing.html<br><br>
 
 b.	Knowledge representation<br>
-<p>Knowledge representation untuk memudahkan suatu pengertahuan merupakan tahap yang memiliki peran penting dan suatu bidang kecerdasan buatan yang cukup diminati, karena penerapannya diberbagai bidang baik budang ilmu pengetahuan maupun bisnis yang terbukti sangat membantu dalam mengambil keputusan. Komponen sistem pakar terbagi atas :</p>• Object–atribut–value(OAV)triplet<br>
+<p>Knowledge representation untuk memudahkan suatu pengertahuan merupakan tahap yang memiliki peran penting dan suatu bidang kecerdasan buatan yang cukup diminati, karena penerapannya diberbagai bidang baik budang ilmu pengetahuan maupun bisnis yang terbukti sangat membantu dalam mengambil keputusan. Komponen sistem pakar terbagi atas :</p>
+• Object–atribut–value(OAV)triplet
 •	 Rules<br>
 •	SemanticNetwork<br>
 •	Frame<br>
