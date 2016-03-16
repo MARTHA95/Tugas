@@ -1,8 +1,10 @@
 ARTIFICIAL INTELIGENT
 
-NAMA 	: MARTHA SITORUS<br>
-NIM		: 13.111.4536<br>
-KELAS	: TP-B-PAGI<br>
+NAMA  : MARTHA SITORUS<br>
+NIM   : 13.111.4536<br>
+KELAS : TP-B-PAGI<br>
+
+ARGUMENTASI<br>
 
 Soal 1  	: Apakah anda setuju atau tidak dengan pendapat Turing?<br>
 <P>Jawaban 	: Ya saya setuju, karena kecerdasan dan penalaran terhadap pertanyaan yang diberikan sering terjadi disekelilingnya lebih sempurna dibandingkan sebuah mesin yang memiliki Artificial Intelligence. Namun kebanyakan manusia masih membutuhkan jeda waktu “Time Limit” yang lebih banyak untuk mengatasi permasalahan ketidakteraturan pemikiran yang ada pada manusia. Sedangkan mesin yang memiliki “Artificial Intelligence” hanya membutuhkan waktu yang cukup singkat untuk memecahkan sebuah kasus, meski permasalahan tersebut hanyalah pemahaman terbatas dan harus dilakukan peng-“Update”-an atau pengeditan ulang pada sistem “Artificial Inteligence”.</p><br>
